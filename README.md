@@ -115,15 +115,6 @@ AppApplication.java
 
 ---
 
-## Access Application
-
-Open browser:
-
-```text
-http://localhost:8080
-```
-
----
 
 ## WebSocket Endpoint
 
